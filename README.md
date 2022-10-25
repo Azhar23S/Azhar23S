@@ -12,4 +12,4 @@ Previously, I worked as a Marketing Manager for 3 years in Digital Marketing fie
 
 ## PROJECTS 🎲
 
-I have done several Projects for my Portfolio on Python, Exxploratory Data Analysis, Machine Learing, SQL, and Tableau. You can find my projects in the Respositories. 👇
+I have done several Projects for my Portfolio on Python, Exploratory Data Analysis, Machine Learing, SQL, and Tableau. You can find my projects in the Respositories. 👇
