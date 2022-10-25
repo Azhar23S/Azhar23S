@@ -4,4 +4,4 @@ I'm an aspiring Data Scientist 📊📈 executing data-driven solution to increa
 
 Previously, I worked as a Marketing Manager for 3 years in Digital Marketing field. After some mind changes and decisions, I transisted into Data Science field looking into the Scope and Opportunities 🎯. I know Graphic Desiginig as well 🎨.
 
-<h3> TECH STACKS </h3>
+<h3><b> TECH STACKS </b></h3>
