@@ -6,9 +6,12 @@ Previously, I worked as a Marketing Manager for 3 years in Digital Marketing fie
 
 ## TECH STACKS 👨‍💻
 
-- Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="18" height="18"/>
-- SQL <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="Python" width="18" height="18"/>
-- Tableau <img src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" alt="Python" width="18" height="18"/>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-CA1E32?style=for-the-badge&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## PROJECTS 🎲
 
