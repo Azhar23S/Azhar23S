@@ -7,8 +7,9 @@ Previously, I worked as a Marketing Manager for 3 years in Digital Marketing fie
 ## TECH STACKS 👨‍💻
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/Numpy-4978D1?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-12084F?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3D4E76?style=for-the-badge&logo=plotly&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-CA1E32?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
